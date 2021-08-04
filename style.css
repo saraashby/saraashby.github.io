@@ -22,7 +22,7 @@ nav {
 
 nav li {
 	display: inline-block;
-	justify-content: space-evenly;
+	justify-content: space-between;
 	/* margin-top: 20px;
 	margin-bottom: 0px; */
 }
@@ -176,13 +176,21 @@ footer {
 	float: right;
 } */
 
-/* #love {
+#love {
 	justify-content: center;
-} */
+}
 
 .social,
 form {
 	text-align: center;
+}
+
+.social a:link {
+	color: #8C6CAE;
+}
+
+.social a:visited {
+	color: #6CAE8C;
 }
 
 .logo {
@@ -199,9 +207,13 @@ form {
 
 @media screen {
 	img {
-		width: 70%
+		width: 70%;
 	}
 	.container {
 		flex-direction: column;
+	}
+	nav-li {
+		float: left;
+		width: 80%;
 	}
 }

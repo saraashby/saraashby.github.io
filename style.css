@@ -3,7 +3,7 @@
 }
 
 head {
-	font-family: Helvetica;
+	font-family: Montserrat;
 }
 
 nav {
@@ -38,8 +38,8 @@ nav li {
 
 nav li a:link,
 nav li a:visited {
-	color: #8C6CAE;	
-	background-color: #F3EEE6;
+	color: #5993A0;	
+	background-color: white;
 	text-decoration: none;
 	height: 50px;
 	padding-top: 5px;
@@ -48,8 +48,8 @@ nav li a:visited {
 	padding-right: 20px;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
-	border-top: solid #6CAE8C 1px;
-	border-right: solid #6CAE8C 2px;
+	border-top: solid #A9A9A9 1px;
+	border-right: solid #A9A9A9 2px;
 	transition-property: all;
 	transition-delay: 300ms;
 	transition-duration: 1s;
@@ -81,16 +81,16 @@ nav li a:active {
 }
 
 body {
-	font-family: Helvetica;
+	font-family: Montserrat;
 	/* background-image: url("background purple.jpeg"); */
-	background-color: #F3EEE6;
+	background-color: white;
 }
 
 h1,
 h2,
 h3,
 h4 {
-	color: #6CAE8C;
+	color: #5993A0;
 }
 
 h1 {
@@ -101,7 +101,7 @@ h1 {
 
 h6 {
 	text-align: center;
-	color: #6CAE8C;
+	color: #5993A0;
 	/* background-color: white;
 	opacity: 0.5; */
 	padding: 10px;
@@ -122,7 +122,7 @@ img {
 }
 
 .caption {
-	color: #8C6CAE;
+	color: #5993A0;
 	opacity: 0.75;
 	text-align: center;
 	border-radius: 20px;
@@ -135,7 +135,7 @@ footer {
 }
 
 .container {
-	border: dotted 1px #A3D4BB;
+	border: dotted 1px #A9A9A9;
 	border-radius: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -186,11 +186,11 @@ form {
 }
 
 .social a:link {
-	color: #8C6CAE;
+	color: #5993A0;
 }
 
 .social a:visited {
-	color: #6CAE8C;
+	color: #F7E391;
 }
 
 .logo {

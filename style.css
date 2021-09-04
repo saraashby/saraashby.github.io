@@ -97,7 +97,7 @@ h1 {
 	/* text-align: right; */
 	font-size: 60px;
 	font-family: Sacramento, cursive;
-	float: right;
+	/* float: right; */
 }
 
 h6 {
@@ -156,7 +156,7 @@ footer {
 
 .section{
 	margin: 20px 20px;
-	float: right;
+	/* float: right; */
 }
 
 /* #coding,

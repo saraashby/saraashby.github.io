@@ -3,7 +3,7 @@
 }
 
 head {
-	font-family: Montserrat, sans-serrif;
+	font-family: "Montserrat", sans-serrif;
 }
 
 nav {
@@ -48,8 +48,8 @@ nav li a:visited {
 	padding-right: 20px;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
-	border-top: solid #A9A9A9 1px;
-	border-right: solid #A9A9A9 2px;
+	border-top: solid #F7E391 1px;
+	border-right: solid #F7E391 2px;
 	transition-property: all;
 	transition-delay: 300ms;
 	transition-duration: 1s;
@@ -81,7 +81,7 @@ nav li a:active {
 }
 
 body {
-	font-family: Montserrat;
+	font-family: "Montserrat", sans-seriff;
 	/* background-image: url("background purple.jpeg"); */
 	background-color: white;
 }
@@ -135,7 +135,7 @@ footer {
 }
 
 .container {
-	border: dotted 1px #A9A9A9;
+	border: dotted 1px #F7E391;
 	border-radius: 20px;
 	padding-left: 20px;
 	padding-right: 20px;

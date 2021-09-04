@@ -93,7 +93,8 @@ h4 {
 }
 
 header {
-	background-color: #5993A0
+	background-color: #5993A0;
+	padding: 50px;
 	margin-bottom: 250px;
 }
 

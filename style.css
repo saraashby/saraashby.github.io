@@ -86,15 +86,20 @@ body {
 	background-color: white;
 }
 
-h1,
 h2,
 h3,
 h4 {
 	color: #5993A0;
 }
 
+header {
+	background-color: #5993A0
+	margin-bottom: 250px;
+}
+
 h1 {
 	/* text-align: right; */
+	color: white;
 	font-size: 60px;
 	font-family: Sacramento, cursive;
 	/* float: right; */

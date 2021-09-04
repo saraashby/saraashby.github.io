@@ -94,7 +94,7 @@ h4 {
 }
 
 h1 {
-	text-align: right;
+	/* text-align: right; */
 	font-size: 60px;
 	font-family: Sacramento, cursive;
 	float: right;
@@ -156,6 +156,7 @@ footer {
 
 .section{
 	margin: 20px 20px;
+	float: right;
 }
 
 /* #coding,
@@ -195,7 +196,7 @@ form {
 }
 
 .logo {
-	max-width: 500px;
+	max-width: 400px;
 	float: left;
 }
 

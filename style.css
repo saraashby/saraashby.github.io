@@ -47,17 +47,17 @@ nav li a:visited {
 	padding-bottom: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
-	border-top-left-radius: 20px;
+	/* border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
 	border-top: solid #F7E391 1px;
 	border-right: solid #F7E391 2px;
-	/* transition-property: all;
+	transition-property: all;
 	transition-delay: 300ms;
 	transition-duration: 1s;
 	transition-timing-function: ease-out; */
 }
 
-/* nav li a:hover .nav, {
+nav li a:hover .nav, {
 	/* top: -25%;
 	transition-property: all;
 	transition-delay: 400ms;
@@ -97,6 +97,7 @@ header {
 	background-color: #5993A0;
 	padding: 50px;
 	margin-bottom: 250px;
+        width: 100%;
 }
 
 h1 {
@@ -130,7 +131,7 @@ img {
 }
 
 .caption {
-	color: #5993A0;
+	color: #F7E391;
 	opacity: 0.75;
 	text-align: center;
 	border-radius: 20px;

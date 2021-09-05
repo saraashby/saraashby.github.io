@@ -108,9 +108,8 @@ img {
 
 .caption {
 	color: #F7E391;
-	background-color: #A9A9A9;
+	background-color: #F2F2F2;
 	max-width: 400px;
-	opacity: 0.25;
 	margin: auto;
 	text-align: center;
 	border-radius: 20px;
@@ -128,8 +127,7 @@ footer {
 	border-radius: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
-	background-color: #A9A9A9;
-	opacity: 0.25;
+	background-color: #F2F2F2;
 	display: inline-block;
 	margin: 40px;
 	min-width: 40%;
@@ -153,6 +151,9 @@ footer {
 	max-width: 500px;
 	margin-left: 100px;
 	overflow: hidden;
+	border: dotted 2px #F7E391;
+	border-radius: 20px;
+	background-color: #F2F2F2;
 }
 
 .container-b {
@@ -160,8 +161,10 @@ footer {
 	max-height: fit-content;
 	max-width: 500px;
 	margin-right: 100px;
-	text-align: right;
 	float: right;
+	border: dotted 2px #F7E391;
+	border-radius: 20px;
+	background-color: #F2F2F2;
 }
 
 #love {

@@ -30,16 +30,16 @@ nav li {
 .nav {
 	margin-bottom: 20px;
 	margin-top: 0px;
-	transition-property: margin-top;
+	/* transition-property: margin-top;
 	transition-delay: 300ms;
 	transition-duration: 1s;
-	transition-timing-function: ease-out;
+	transition-timing-function: ease-out; */
 }
 
 nav li a:link,
 nav li a:visited {
-	color: #5993A0;	
-	background-color: white;
+	color: #F7E391;	
+	background-color: #5993A0;
 	text-decoration: none;
 	height: 50px;
 	padding-top: 5px;
@@ -50,18 +50,18 @@ nav li a:visited {
 	border-top-right-radius: 20px;
 	border-top: solid #F7E391 1px;
 	border-right: solid #F7E391 2px;
-	transition-property: all;
+	/* transition-property: all;
 	transition-delay: 300ms;
 	transition-duration: 1s;
-	transition-timing-function: ease-out;
+	transition-timing-function: ease-out; */
 }
 
 /* nav li a:hover .nav, {
-	top: -25%;
+	/* top: -25%;
 	transition-property: all;
 	transition-delay: 400ms;
 	transition-duration: 1s;
-	transition-timing-function: ease-out;
+	transition-timing-function: ease-out; */
 } */
 
 nav li a:hover ,

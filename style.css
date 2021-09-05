@@ -17,6 +17,7 @@ nav {
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
 	font-weight: 200;
+        display: inline-block;
 	/* padding-top: 20px; */
 }
 /*
@@ -62,7 +63,7 @@ nav li a:visited {
 	transition-delay: 400ms;
 	transition-duration: 1s;
 	transition-timing-function: ease-out; */
-} */
+} 
 
 nav li a:hover ,
 nav li a:active {

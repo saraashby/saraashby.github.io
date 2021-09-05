@@ -17,6 +17,7 @@ nav {
 	word-spacing: 7em;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
+	text-decoration: none;
 	font-weight: 200;
 	/* padding-top: 20px; */
 }

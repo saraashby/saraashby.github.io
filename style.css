@@ -7,7 +7,8 @@ head {
 }
 
 nav {
-	background-color: #5993A0;
+	color: #F7E391;
+        background-color: #5993A0;
 	position: fixed;
 	z-index: 10;
 	opacity: 0.99;
@@ -23,6 +24,7 @@ nav {
 nav li {
 	display: inline-block;
 	justify-content: space-around;
+	text-decoration: none;
 	/* margin-top: 20px;
 	margin-bottom: 0px; */
 }

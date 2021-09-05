@@ -19,7 +19,7 @@ nav {
 	font-weight: 200;
 	/* padding-top: 20px; */
 }
-
+/*
 nav li {
 	display: inline-block;
 	justify-content: space-around;
@@ -79,7 +79,7 @@ nav li a:active {
 	/* transition: top 1s ease 0.5s, height 500ms ease-in-out 1s; */
 	/* transition: height 750ms ease-in 200ms, left 500ms ease-out 450ms, font-size 950ms linear; */
 }
-
+*/
 body {
 	font-family: "Montserrat", sans-seriff;
 	/* background-image: url("background purple.jpeg"); */

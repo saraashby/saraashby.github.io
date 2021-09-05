@@ -1,9 +1,10 @@
 * {
 	box-sizing: border-box;
+	font-family: "Montserrat", sans-serif;
+
 }
 
 head {
-	font-family: "Montserrat", sans-serif;
 }
 
 nav {
@@ -73,7 +74,7 @@ h4 {
 header {
 	background-color: #5993A0;
 	padding: 50px;
-	margin-bottom: 250px;
+	margin: 20px 20px 250px 20px;
         width: 100%;
 }
 
@@ -126,7 +127,7 @@ footer {
 	padding-left: 20px;
 	padding-right: 20px;
 	background-color: #A9A9A9;
-	opacity: 0.75;
+	opacity: 0.5;
 	display: inline-block;
 	margin: 40px;
 	min-width: 40%;

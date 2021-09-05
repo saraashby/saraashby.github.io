@@ -17,12 +17,12 @@ nav {
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
 	font-weight: 200;
-	padding-top: 20px;
+	/* padding-top: 20px; */
 }
 
 nav li {
 	display: inline-block;
-	justify-content: space-between;
+	justify-content: space-around;
 	/* margin-top: 20px;
 	margin-bottom: 0px; */
 }

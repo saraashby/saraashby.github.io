@@ -3,7 +3,7 @@
 }
 
 head {
-	font-family: "Montserrat", sans-serrif;
+	font-family: "Montserrat", sans-serif;
 }
 
 nav {
@@ -58,33 +58,9 @@ nav li a:visited {
 	transition-duration: 1s;
 	transition-timing-function: ease-out; */
 }
-/*
-nav li a:hover .nav, {
-	top: -25%;
-	transition-property: all;
-	transition-delay: 400ms;
-	transition-duration: 1s;
-	transition-timing-function: ease-out; */
-} 
-/*
-nav li a:hover ,
-nav li a:active {
-	padding-top: 30px;
-	padding-bottom: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
-	border-top: solid #6CAE8C 1px;
-	border-right: solid #eaf8f0 1px;
-	transition-property: all;
-	transition-delay: 300ms;
-	transition-duration: 1s;
-	transition-timing-function: ease-out;
-	transition: top 1s ease 0.5s, height 500ms ease-in-out 1s;
-	transition: height 750ms ease-in 200ms, left 500ms ease-out 450ms, font-size 950ms linear;
-}
-*/
+
 body {
-	font-family: "Montserrat", sans-seriff;
+	font-family: "Montserrat", sans-serif;
 	background-color: white;
 }
 
@@ -131,6 +107,8 @@ img {
 
 .caption {
 	color: #F7E391;
+	background-color: #A9A9A9;
+	max-width: 400px;
 	opacity: 0.75;
 	text-align: center;
 	border-radius: 20px;
@@ -166,26 +144,25 @@ footer {
 	/* float: right; */
 }
 
-/* #coding,
-#projects {
+.container-a {
 	display: inline-block;
 	max-height: fit-content;
 	max-width: 500px;
 	margin-left: 100px;
 	overflow: hidden;
-} */
+}
 
-/* #college,
-#experience {
+.container-b {
 	display: inline-block;
 	max-height: fit-content;
 	max-width: 500px;
 	margin-right: 100px;
 	text-align: right;
 	float: right;
-} */
+}
 
 #love {
+	margin: auto;
 	justify-content: center;
 }
 
